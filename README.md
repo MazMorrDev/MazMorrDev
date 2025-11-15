@@ -1,17 +1,17 @@
-# 👋 ¡Hola! I'm Marco Antonio Romero Albanez
+# ¡Hola! I'm Marco Antonio Romero Albanez
 
 **Computer Engineering Student | Full-Stack Developer | .NET & Angular Enthusiast**
 
 I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently in my 3rd year of Computer Engineering. I specialize in building robust, scalable applications with focus on **.NET and Angular**. With experience as a freelancer and teaching assistant, I bring both technical expertise and strong collaboration skills to every project.
 
-## 🚀 What I Bring to the Table
+## What I Bring to the Table
 
 - **Full-Stack Development:** End-to-end application development with Angular frontends and .NET backends
 - **Clean Architecture:** Experience implementing MVC, Dependency Injection, and enterprise design patterns
 - **Database Design:** Proficiency in relational database management and optimization
 - **Problem-Solving:** Strong analytical skills for creating efficient and maintainable solutions
 
-## 🛠 Technical Stack
+## Technical Stack
 
 ### **Backend Development**
 - **Languages:** C#, Java, SQL
@@ -21,10 +21,10 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 ### **Frontend Development**
 - **Languages:** TypeScript, HTML, CSS
 - **Frameworks:** Angular, JavaFX
-- **Tools:** RxJS, Angular CLI, Component-based Architecture
+- **Tools:** Angular CLI, Component-based Architecture
 
 ### **Databases & Tools**
-- **Databases:** PostgreSQL, MySQL, SQLite, H2 Database
+- **Databases:** PostgreSQL, MySQL, SQLite, H2 Database, SQL Server
 - **Version Control:** Git, GitHub
 - **IDEs:** Visual Studio, IntelliJ IDEA, VS Code
 - **Design Patterns:** Singleton, Strategy, Factory, Builder, Facade, Template Method
