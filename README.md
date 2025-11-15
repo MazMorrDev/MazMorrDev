@@ -50,7 +50,7 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 
 ## 💼 Featured Projects
 
-```àscii art
+
 ┌─────────────────────────────────────────────────┐
 │              BUSINESS MANAGER                   │
 │    ▓▓▓▓▓ INVENTORY & SALES SYSTEM ▓▓▓▓▓▓▓▓▓▓▓▓  │
@@ -70,7 +70,7 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 │   [View Repository](https://github.com/MazMorr/Storage-Software-SpringBoot-Javafx.git)      │
 │                                                 │
 └─────────────────────────────────────────────────┘
-```
+
 
 ### **Interactive Quiz** 🧠
 _Educational application with dynamic questions and real-time evaluation_
