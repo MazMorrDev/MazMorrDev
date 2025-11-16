@@ -61,11 +61,9 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 │                                                 │ │                                              │
 └─────────────────────────────────────────────────┘ └──────────────────────────────────────────────┘
 ```
-📁 Business Manager Repository:         
-[View Repository](https://github.com/MazMorr/Storage-Software-SpringBoot-Javafx.git)  
+📁 Business Manager Repository: [View Repository](https://github.com/MazMorr/Storage-Software-SpringBoot-Javafx.git)  
 
-📁 Interactive Quiz Repository: 
-[View Repository](https://github.com/MazMorr/Quiz.git)
+📁 Interactive Quiz Repository: [View Repository](https://github.com/MazMorr/Quiz.git)
 
 ## 📫 Let's Connect!
 
