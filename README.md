@@ -72,4 +72,4 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 - **Location:** Matanzas, Cuba (Open to remote opportunities worldwide)
 - **Languages:** 
 -   ES ▓▓▓▓▓▓▓▓▓▓▓▓ Native
--   EN ▓▓▓▓▓▓▓▓░░░░ B1                  
+-   EN ▓▓▓▓▓▓▓░░░░░ B1                  
