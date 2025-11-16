@@ -71,5 +71,5 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 - **Phone:** +53 55505961
 - **Location:** Matanzas, Cuba (Open to remote opportunities worldwide)
 - **Languages:** 
--   ES ▓▓▓▓▓▓▓▓▓▓▓▓ Native
--   EN ▓▓▓▓▓▓▓░░░░░ B1                  
+-   Español ▓▓▓▓▓▓▓▓▓▓▓▓ Native
+-   English ▓▓▓▓▓▓▓░░░░░ B1                  
