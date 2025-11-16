@@ -45,8 +45,8 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 
 ```ascii  art
 ┌─────────────────────────────────────────────────┐ ┌──────────────────────────────────────────────┐
-│              BUSINESS MANAGER                   │ │            INTERACTIVE QUIZ 🧠               │
-│    ▓▓▓▓▓ INVENTORY & SALES SYSTEM ▓▓▓▓▓▓▓▓▓▓▓▓  │ │  ▓▓▓▓▓▓▓ Educational Application ▓▓▓▓▓▓▓▓▓   │
+│                BUSINESS MANAGER                 │ │            INTERACTIVE QUIZ 🧠               │
+│            INVENTORY & SALES SYSTEM             │ │          Educational Application             │
 ├─────────────────────────────────────────────────┤ ├──────────────────────────────────────────────┤
 │                                                 │ │                                              │
 │   ╭─────────╮     ╭─────────╮     ╭─────────╮   │ │    ┌─────────┐   ┌─────────┐   ┌──────────┐  │
