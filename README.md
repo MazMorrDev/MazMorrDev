@@ -7,7 +7,6 @@
 ░██       ░██ ░██   ░██   ░███      ░██       ░██ ░██    ░██ ░██      ░██      ░██   ░██  ░██          ░██░██   
 ░██       ░██  ░█████░██ ░█████████ ░██       ░██  ░███████  ░██      ░██      ░███████    ░███████     ░███    
 ```                                                                                                                
-                                                                                                                
 **Computer Engineering Student | Backend Developer | .NET & Angular Enthusiast**
 
 I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently in my 3rd year of Computer Engineering. I specialize in building robust, scalable applications with focus on **.NET and Angular**. With experience as a freelancer and teaching assistant, I bring both technical expertise and strong collaboration skills to every project.
@@ -38,10 +37,10 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### **Version Control** 
+### **Version Control**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### **IDEs** 
+### **IDEs**
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 💼 Featured Projects
@@ -79,17 +78,17 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 
 **Tech Stack:** `Java` `Spring Boot` `JavaFX` `H2 Database`
 
-
 ## 📬 Contact & Info
-<pre>
-✉️ marconchelo12@gmail.com
 
-📞 +53 55505961 
-  
-📍 Matanzas, Cuba 🇨🇺
+![Gmail](https://img.shields.io/badge/marconchelo12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
-🌐 Open to remote opportunities worldwide
-  
-🗣️ Spanish ▓▓▓▓▓▓▓▓▓▓▓▓ Native     
-🗣️ English ▓▓▓▓▓▓▓▓░░░░ B1 - Intermediate
-</pre>
+![Phone](https://img.shields.io/badge/%2B53_55505961-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+![Location](https://img.shields.io/badge/Matanzas,_Cuba-005CAA?style=for-the-badge&logo=googlemaps&logoColor=white) ![Cuba](https://img.shields.io/badge/🇨🇺-Flag_of_Cuba?style=for-the-badge)
+
+![Remote Work](https://img.shields.io/badge/Open_to_Remote_Opportunities_Worldwide-0088CC?style=for-the-badge&logo=remote&logoColor=white)
+
+### **Languages**
+![Spanish](https://img.shields.io/badge/Español-Nativo-2E8B57?style=for-the-badge&logo=googletranslate&logoColor=white) ![Level](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓▓▓-100%25-2E8B57?style=flat-square)
+
+![English](https://img.shields.io/badge/English-B1_Intermediate-1E90FF?style=for-the-badge&logo=googletranslate&logoColor=white) ![Level](https://img.shields.io/badge/▓▓▓▓▓▓▓▓░░░░-65%25-1E90FF?style=flat-square)
