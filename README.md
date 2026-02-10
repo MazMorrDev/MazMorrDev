@@ -13,6 +13,11 @@ I'm a passionate software developer from **Matanzas, Cuba** 🇨🇺 currently i
 
 ## 🛠️ Technical Stack
 
+<a href="https://mazmorrdev.is-a.dev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mazmorrdev&show_icons=true&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mazmorrdev&layout=compact&hide=html&langs_count=8&theme=dracula"/>
+</a>
+
 ### **Backend Development**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
